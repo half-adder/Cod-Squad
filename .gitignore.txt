@@ -1,5 +1,7 @@
 
-# Created by https://www.gitignore.io/api/r,python
+.DS_Store
+cod/
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -170,6 +172,3 @@ rsconnect/
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
 /*_files/
-
-
-# End of https://www.gitignore.io/api/r,python
